@@ -1,8 +1,8 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - IsaiasDn3401
 
-**Data:** 22/05/2025 17:12
+**Data:** 22/05/2025 17:26
 
-**Nota Final:** `74.44/100`
+**Nota Final:** `79.44/100`
 **Status:** ✅ Aprovado
 
 ---
@@ -23,11 +23,9 @@
     - Atributos de acessibilidade como alt, aria ou label foram utilizados.
 
 ## ❌ Problemas Detectados (Descontos de até -30%)
-- Foram encontrados `2` problemas que acarretam descontos. Veja abaixo os testes penalizados:
+- Foram encontrados `1` problemas que acarretam descontos. Veja abaixo os testes penalizados:
   - ⚠️ **Falhou no teste de penalidade**: `test_penalty.py::test_no_sections`
     - **Correção sugerida**: Seções principais estão devidamente presentes no HTML.
-  - ⚠️ **Falhou no teste de penalidade**: `test_penalty.py::test_no_contact_info`
-    - **Correção sugerida**: Informações de contato (e-mail, redes sociais ou link) foram encontradas.
 
 ---
 Continue praticando e caprichando no código. Cada detalhe conta! 💪

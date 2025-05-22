@@ -6,6 +6,10 @@ body {
   padding: 0;
 }
 
+a{
+  color: #fdfffc;
+  text-decoration: none ;
+}
 
 .navbar {
   background-color: #000;
@@ -85,4 +89,3 @@ footer {
 footer i {
   margin-right: 10px;
 }
-
